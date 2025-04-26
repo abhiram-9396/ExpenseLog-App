@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Expense-Tracker",
+    "name": "Expense Tracker",
     "slug": "Expense-Tracker",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -18,13 +18,17 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "buildNumber": "1.0.0",
+      "supportsTablet": true,
+      "bundleIdentifier": "com.abhiram13.ExpenseTracker"
     },
     "android": {
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.abhiram13.ExpenseTracker"
     },
     "web": {
       "favicon": "./assets/favicon.png"

@@ -11,7 +11,11 @@ export default function ExpenseItem({id, description, amount, date}){
     {
         navigation.navigate('Manage Expenses',{
             expenseId: id, 
+<<<<<<< HEAD
             //for expense item we are passing the id of the item because we want to know the id of the item which we are editing.
+=======
+            //for expense item we are passing the id of the item because we want to know the id pf the item which we are editing.
+>>>>>>> 1c917c8 (Working)
         });
     }
 
@@ -52,7 +56,10 @@ const styles = StyleSheet.create({
         fontSize:16,
         marginBottom:4,
         fontWeight:'bold',
+<<<<<<< HEAD
         maxWidth: '78%',
+=======
+>>>>>>> 1c917c8 (Working)
     },
     amountContainer:
     {
