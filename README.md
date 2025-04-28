@@ -12,6 +12,12 @@ An intuitive Expense Tracker Android/iOS application built with **React Native**
 - **User-Friendly Interface:** Minimalist and intuitive design for enhanced user experience.
 - **Performance Optimized:** Reduced manual expense tracking time by 70% compared to traditional spreadsheets.
 
+## 📸 Demo
+
+[![Subway Surfers Game Demo](https://img.youtube.com/vi/OhLNpsE8xlw/hqdefault.jpg)](https://youtu.be/OhLNpsE8xlw)
+
+> _Click the image above to watch the demo video on YouTube!_
+
 ## 🛠️ Built With
 
 - **React Native** – For cross-platform mobile development
